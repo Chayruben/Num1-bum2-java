@@ -1,0 +1,14 @@
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("Christian Jay A. Ruben");
+
+System.out.println(" COC-FA1-ITA-01"); System.out.println("ITE 186");
+System.out.println("Tuesday/Thursday 9:00am to 10:30am");
+System.out.println("Instructor: Sir Jason Belmes");
+
+int  num1 = 13;
+int  num2 = 14;
+System.out.println(num1 * num2);
+
+
+	}
